@@ -1,0 +1,32 @@
+
+body 
+{
+    background: linear-gradient(0.60turn, #5db4da, #ebf8e1, #dee06c);}
+
+h1, h2, h3 
+{text-align: center;
+    color:#0F2595;}
+
+hr
+{border-color: rgb(99, 32, 207);}
+
+p 
+{color:#0F2595;}   
+
+ul, ol 
+{color:#0F2595;}
+       
+img 
+{display: block;
+margin: auto;
+background-color: rgb(37, 58, 66);}
+
+.presentacion
+{text-align: center;}
+
+iframe
+{width:100% ;
+height:800px ;}
+
+.centrado 
+{text-align: right;}
